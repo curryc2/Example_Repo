@@ -45,3 +45,5 @@ vignettes/*.pdf
 # Ignore confidential data
 
 data/*
+
+output/*.rds
