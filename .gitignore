@@ -39,3 +39,9 @@ vignettes/*.pdf
 .Renviron
 
 *.Rproj
+
+.DS_Store
+
+# Ignore confidential data
+
+data/*
