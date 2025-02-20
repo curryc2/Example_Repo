@@ -1,4 +1,4 @@
-# Salmon-VAST-Models
+# Example Repo
 ## R
 Helper functions for possible use across projects.
 
